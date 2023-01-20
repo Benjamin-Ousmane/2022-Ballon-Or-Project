@@ -1,5 +1,5 @@
 {
-  "homepage": "http://ousmane.github.io/2022_ballon_or_project",
+  "homepage": "http://benjamin-ousmane.github.io/2022_ballon_or_project",
   "name": "2022_ballon_or_project",
   "version": "0.1.0",
   "private": true,
@@ -22,8 +22,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy" :"npm run build",
-    "deploy" : "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
