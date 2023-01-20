@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/2022_Ballon_Or_Project/static/css/main.b89ff39b.css",
-    "main.js": "/2022_Ballon_Or_Project/static/js/main.3153099b.js",
-    "static/js/787.0cf031c4.chunk.js": "/2022_Ballon_Or_Project/static/js/787.0cf031c4.chunk.js",
-    "static/media/PresentationPage.png": "/2022_Ballon_Or_Project/static/media/PresentationPage.42114870bc2f5cfbe4ae.png",
-    "static/media/benzema.png": "/2022_Ballon_Or_Project/static/media/benzema.eef6a06873c1ea8e91d2.png",
-    "static/media/mane.png": "/2022_Ballon_Or_Project/static/media/mane.c78213d0a8e511c91371.png",
-    "static/media/mbappe.png": "/2022_Ballon_Or_Project/static/media/mbappe.bea578938b2f25e0f407.png",
-    "static/media/benzema.csv": "/2022_Ballon_Or_Project/static/media/benzema.be8ea4787667fb87b359.csv",
-    "static/media/mane.csv": "/2022_Ballon_Or_Project/static/media/mane.0d94a673b8a324dd8c8b.csv",
-    "static/media/mbappe.csv": "/2022_Ballon_Or_Project/static/media/mbappe.fb740392dab5883a6aa0.csv",
-    "static/media/liv_2021-2022.csv": "/2022_Ballon_Or_Project/static/media/liv_2021-2022.ed5fc63cb2b128df54ea.csv",
-    "static/media/logo.svg": "/2022_Ballon_Or_Project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/psg_2021-2022.csv": "/2022_Ballon_Or_Project/static/media/psg_2021-2022.61f883a85826b1a7deb2.csv",
-    "static/media/real_2021-2022.csv": "/2022_Ballon_Or_Project/static/media/real_2021-2022.ddc72f24339f0d6f170e.csv",
-    "index.html": "/2022_Ballon_Or_Project/index.html",
-    "static/media/premierLeague_2021-2022.csv": "/2022_Ballon_Or_Project/static/media/premierLeague_2021-2022.029038d4aefa7b4af25d.csv",
-    "static/media/laLiga_2021-2022.csv": "/2022_Ballon_Or_Project/static/media/laLiga_2021-2022.849197b9246a2aa60174.csv",
-    "static/media/ligue1_2021-2022.csv": "/2022_Ballon_Or_Project/static/media/ligue1_2021-2022.f9b3d11f42866a500e8c.csv",
-    "main.b89ff39b.css.map": "/2022_Ballon_Or_Project/static/css/main.b89ff39b.css.map",
-    "main.3153099b.js.map": "/2022_Ballon_Or_Project/static/js/main.3153099b.js.map",
-    "787.0cf031c4.chunk.js.map": "/2022_Ballon_Or_Project/static/js/787.0cf031c4.chunk.js.map"
+    "main.css": "/2022-Ballon-Or-Project/static/css/main.6bddf67c.css",
+    "main.js": "/2022-Ballon-Or-Project/static/js/main.e4570917.js",
+    "static/js/787.0cf031c4.chunk.js": "/2022-Ballon-Or-Project/static/js/787.0cf031c4.chunk.js",
+    "static/media/PresentationPage.png": "/2022-Ballon-Or-Project/static/media/PresentationPage.42114870bc2f5cfbe4ae.png",
+    "static/media/benzema.png": "/2022-Ballon-Or-Project/static/media/benzema.eef6a06873c1ea8e91d2.png",
+    "static/media/mane.png": "/2022-Ballon-Or-Project/static/media/mane.c78213d0a8e511c91371.png",
+    "static/media/mbappe.png": "/2022-Ballon-Or-Project/static/media/mbappe.bea578938b2f25e0f407.png",
+    "static/media/benzema.csv": "/2022-Ballon-Or-Project/static/media/benzema.be8ea4787667fb87b359.csv",
+    "static/media/mane.csv": "/2022-Ballon-Or-Project/static/media/mane.0d94a673b8a324dd8c8b.csv",
+    "static/media/mbappe.csv": "/2022-Ballon-Or-Project/static/media/mbappe.fb740392dab5883a6aa0.csv",
+    "static/media/liv_2021-2022.csv": "/2022-Ballon-Or-Project/static/media/liv_2021-2022.ed5fc63cb2b128df54ea.csv",
+    "static/media/logo.svg": "/2022-Ballon-Or-Project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/psg_2021-2022.csv": "/2022-Ballon-Or-Project/static/media/psg_2021-2022.61f883a85826b1a7deb2.csv",
+    "static/media/real_2021-2022.csv": "/2022-Ballon-Or-Project/static/media/real_2021-2022.ddc72f24339f0d6f170e.csv",
+    "index.html": "/2022-Ballon-Or-Project/index.html",
+    "static/media/premierLeague_2021-2022.csv": "/2022-Ballon-Or-Project/static/media/premierLeague_2021-2022.029038d4aefa7b4af25d.csv",
+    "static/media/laLiga_2021-2022.csv": "/2022-Ballon-Or-Project/static/media/laLiga_2021-2022.849197b9246a2aa60174.csv",
+    "static/media/ligue1_2021-2022.csv": "/2022-Ballon-Or-Project/static/media/ligue1_2021-2022.f9b3d11f42866a500e8c.csv",
+    "main.6bddf67c.css.map": "/2022-Ballon-Or-Project/static/css/main.6bddf67c.css.map",
+    "main.e4570917.js.map": "/2022-Ballon-Or-Project/static/js/main.e4570917.js.map",
+    "787.0cf031c4.chunk.js.map": "/2022-Ballon-Or-Project/static/js/787.0cf031c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b89ff39b.css",
-    "static/js/main.3153099b.js"
+    "static/css/main.6bddf67c.css",
+    "static/js/main.e4570917.js"
   ]
 }
