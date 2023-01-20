@@ -1,0 +1,34 @@
+.circle{
+    border-radius:50%;
+    background-color:lightslategrey;
+    background-position: center center;
+    background-size:contain;
+    background-repeat: no-repeat;
+    width: 150px;
+    height:150px;
+    display:flex;
+    flex-direction:column;
+    margin: auto;
+    margin-bottom: 5%;
+}
+
+.circle.benzema{
+    background-image: url('./assets/benzema.png');
+    flex-grow: 1;
+}
+
+.circle.mbappe{
+    background-image: url('./assets/mbappe.png');
+    flex-grow: 1;
+}
+
+.circle.mane{
+    background-image: url('./assets/mane.png');
+    flex-grow: 1;
+}
+
+.circle.selected {
+    width: 200px;
+    height: 200px;
+    background-color:lightblue;
+}

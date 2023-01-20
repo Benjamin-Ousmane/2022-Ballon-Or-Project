@@ -1,0 +1,112 @@
+{
+    "a": "Senegal",
+    "b": "Egypt",
+    "aScore": "0 (4)",
+    "bScore": "0 (2)",
+    "maneGls": "0",
+    "maneAst": "0",
+    "children": [
+        {
+            "a": "Senegal",
+            "b": "Burkina Faso",
+            "aScore": "3",
+            "bScore": "1",
+            "maneGls": "1",
+            "maneAst": "0",
+            "children": [
+                {
+                    "a": "Burkina Faso",
+                    "b": "Tunisia",
+                    "aScore": "1",
+                    "bScore": "0",
+                    "children": [
+                        {
+                            "a": "Burkina Faso",
+                            "b": "Gabon",
+                            "aScore": "1 (7)",
+                            "bScore": "1 (6)"
+                        },
+                        {
+                            "a": "Tunisia",
+                            "b": "Nigeria",
+                            "aScore": "1",
+                            "bScore": "0"
+                        }
+                    ]
+                },
+                {
+                    "a": "Senegal",
+                    "b": "Equatorial Guinea",
+                    "aScore": "3",
+                    "bScore": "1",
+                    "maneGls": "0",
+                    "maneAst": "0",
+                    "children": [
+                        {
+                            "a": "Senegal",
+                            "b": "Cape Verde",
+                            "aScore": "2",
+                            "bScore": "0",
+                            "maneGls": "1",
+                            "maneAst": "0"
+                        },
+                        {
+                            "a": "Equatorial Guinea",
+                            "b": "Mali",
+                            "aScore": "0 (6)",
+                            "bScore": "0 (5)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "a": "Egypt",
+            "b": "Cameroon",
+            "aScore": "0 (3)",
+            "bScore": "0 (1)",
+            "children": [
+                {
+                    "a": "Cameroon",
+                    "b": "Gambia",
+                    "aScore": "2",
+                    "bScore": "0",
+                    "children": [
+                        {
+                            "a": "Cameroon",
+                            "b": "Comoros",
+                            "aScore": "2",
+                            "bScore": "1"
+                        },
+                        {
+                            "a": "Gambia",
+                            "b": "Guinea",
+                            "aScore": "1",
+                            "bScore": "0"
+                        }
+                    ]
+                },
+                {
+                    "a": "Egypt",
+                    "b": "Morocco",
+                    "aScore": "2",
+                    "bScore": "1",
+                    "children": [
+                        {
+                            "a": "Egypt",
+                            "b": "Côte d'Ivoire",
+                            "aScore": "0 (6)",
+                            "bScore": "0 (5)"
+                        },
+                        {
+                            "a": "Equatorial Guinea",
+                            "b": "Mali",
+                            "aScore": "0 (5)",
+                            "bScore": "0 (4)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
